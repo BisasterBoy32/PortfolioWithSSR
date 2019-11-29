@@ -1,8 +1,10 @@
+import Layout from "../components/layout";
+
 export default function(){
 
     return (
-        <div>
+        <Layout title="Home">
             Hello World I'm an SSR WEBPAGE :).
-        </div>
+        </Layout>
     )
 }
