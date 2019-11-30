@@ -1,6 +1,6 @@
 import Layout from "../components/layout";
 
-export default function(){
+export default () => {
 
     return (
         <Layout title="Home">

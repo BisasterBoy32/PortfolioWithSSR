@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"1HF/":function(n,r,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/_error",function(){return t("Y0NT")}])},Y0NT:function(n,r,t){"use strict";t.r(r);var e=t("q1tI"),o=t.n(e),i=t("CafY"),u=o.a.createElement;r.default=function(n){var r=n.error;return u(i.a,{title:"Error"},r||"Coudn't find this Page 404")}}},[["1HF/",0,1]]]);
